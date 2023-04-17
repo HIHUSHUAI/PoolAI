@@ -1,2 +1,3 @@
 # PoolAI
-一个运行在电脑桌面桌球游戏的AI。An AI that runs on a computer desktop pool game.
+一个实时观看屏幕画面并进行图像分析和自己操作的台球AI。
+A billiard AI that watches the screen image in real time and performs image analysis and its own operations.
